@@ -52,12 +52,12 @@ volatility forecasting techniques.
 If you do not already have a copy of the project downloaded, Open a terminal or your IDE's built-in terminal 
 (such as PyCharm). Navigate to the location where you'd like to store the project, then run:
 ```bash
-# Clone the repository (If Needed)
-git clone https://gitlab.com/wgu-gitlab-environment/student-repos/klund28/d683-advanced-ai-and-ml.git
+# Clone the repository (if needed)
+git clone https://github.com/Lund-Structures/CapitolRegime.git
 
-cd d683-advanced-ai-and-ml
+# Navigate to the project directory
+cd CapitolRegime
 
-git checkout working-branch
 ```
 - If git is unavailable, you can also download the project directly from [GitLab](https://gitlab.com/wgu-gitlab-environment/student-repos/klund28/d683-advanced-ai-and-ml.git)
   by selecting Code -> Download ZIP, then extract the archive to your desired directory and open the project 
